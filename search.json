@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Census Maps",
+    "title": "Sarasota County Age Distribution",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This map shows the percentage of residents in each Sarasota County census tract across three major age groups (Under 18, 18 to 64, and 65 and Older) from the U.S. Census American Community Survey."
   },
   {
     "objectID": "about.html",
